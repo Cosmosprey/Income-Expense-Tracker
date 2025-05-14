@@ -34,7 +34,7 @@
 - Some image files (icons) are used for navigation buttons (e.g., back/forward). No external libraries were used.
 
 
-### 🔧 Planned Improvements
+## 🔧 Planned Improvements
 
 * Add sorting options to the income-expense table (e.g., sort by amount)
 * Improve UI design and overall visuals, especially for the table and form backgrounds
@@ -46,9 +46,7 @@
   * Replace with a more general label like "total status"
   * Add the ability to filter financial summaries by specific months (e.g., April, May) or custom timeframes
 
----
-
-### 🐞 Known Issues
+## 🐞 Known Issues
 
 1 - The application currently shows the same financial data across all users
 
