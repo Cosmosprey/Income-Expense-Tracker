@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinansUygulamasiProjesi", "FinansUygulamasiProjesi.csproj", "{2FB701E2-8EBB-4773-A41F-E8AACCD5A0F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GelirGiderClass", "..\GelirGiderClass\GelirGiderClass.csproj", "{DD1A8694-E817-4A4C-B831-D739D3A6E39C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{E14B5066-CB31-46A5-B75D-C7989E7FF8C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB701E2-8EBB-4773-A41F-E8AACCD5A0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB701E2-8EBB-4773-A41F-E8AACCD5A0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB701E2-8EBB-4773-A41F-E8AACCD5A0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB701E2-8EBB-4773-A41F-E8AACCD5A0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1A8694-E817-4A4C-B831-D739D3A6E39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1A8694-E817-4A4C-B831-D739D3A6E39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1A8694-E817-4A4C-B831-D739D3A6E39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1A8694-E817-4A4C-B831-D739D3A6E39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {539AA00A-236C-4A54-B3C9-47338DED7FF5}
+	EndGlobalSection
+EndGlobal
