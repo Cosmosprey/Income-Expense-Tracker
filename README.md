@@ -45,7 +45,7 @@
 * For known issue number 2 : Update the "end of month status" label in the table, as the current logic does not distinguish between months
   * Replace with a more general label like "total status"
   * Add the ability to filter financial summaries by specific months (e.g., April, May) or custom timeframes
-
+* Add delete user option which completely deletes user's username, password and all financial data
 ## 🐞 Known Issues
 
 1 - The application currently shows the same financial data across all users
